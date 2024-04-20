@@ -1,0 +1,6 @@
+@BlueLearnAPI_HostAddress = http://localhost:5017
+
+GET {{BlueLearnAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
